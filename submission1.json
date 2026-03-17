@@ -1,0 +1,6 @@
+{
+  "prompt": "Single-frame photorealistic editorial image of a locksmith’s workbench in natural morning light. In the center, an extremely intricate, over-cut metal key with many tiny jagged, unnecessary teeth is inserted into and perfectly opens one oddly damaged, irregular antique lock. Nearby on the same bench are several clean, ordinary modern locks that the strange key clearly does not fit. The scene should feel physically real, like a photograph for a magazine feature, with tactile metal textures, shallow depth of field, restrained color palette, and strong compositional clarity. No text, no labels, no numbers, no diagrams, no equations, no symbols, no futuristic glowing effects, no abstract overlays. The image should make a domain expert recognize overfitting from the physical mismatch between perfect special-case fit and poor generalization.",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "An over-cut key opens one irregular lock perfectly but fails on ordinary locks, mirroring a model that memorizes training quirks and does not generalize."
+}
