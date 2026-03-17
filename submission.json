@@ -1,0 +1,7 @@
+{
+  "prompt": "Generate a single-frame editorial image for UNICEF child mortality data: a quiet neonatal ward in soft morning light, with rows of bassinets, but many are empty. Tiny blankets, hospital tags, and folded baby clothes remain, making the absence feel recent and human. No text, no labels, no numbers, no chart, no collage, no split-screen. Photorealistic magazine-cover style, emotionally heavy but subtle, highly legible without explanation.",
+  "model": "DALL·E 3",
+  "dataset_name": "UNICEF Under-Five Mortality",
+  "dataset_url": "https://data.unicef.org/topic/child-survival/under-five-mortality/",
+  "insight": "Millions of children still die before age five, many in the first month of life."
+}
