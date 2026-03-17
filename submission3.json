@@ -1,0 +1,8 @@
+{
+  "prompt": "Single-frame image authentically operating within Bauhaus graphic design, 1919–1933. Asymmetrical poster composition with flat geometric forms, strong figure-ground clarity, cropped shapes, disciplined use of red, yellow, blue, black, and cream, clean sans-serif-era poster logic but with no text. Depict the machine learning concept of overfitting through one extremely intricate, over-specific geometric cutout shape that fits perfectly into one irregular opening, while several nearby simple standard openings remain unmatched by it. The concept must be discernible through structure alone: perfect fit to one special case, failure to generalize. Sharp edges, flat unmodulated color, minimal shading, strong diagonals, authentic Bauhaus visual grammar, no decorative vintage texture, no photorealism, no modern UI, no symbols, no equations, no labels, no text.",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "tradition_name": "Bauhaus graphic design",
+  "tradition_period": "1919–1933",
+  "tradition_approach": "I targeted asymmetrical composition, flat primary-color geometry, sharp figure-ground contrast, and disciplined poster structure so the concept reads through Bauhaus form rather than decorative retro styling."
+}
